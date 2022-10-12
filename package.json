@@ -22,7 +22,7 @@
   ],
   "peerDependencies": {
     "maplibre-gl": ">=2.0.4",
-    "ol": ">=7"
+    "ol": "^7.1.1-dev.1664383879017"
   },
   "devDependencies": {
     "eslint": "^8.24.0",
